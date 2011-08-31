@@ -88,3 +88,4 @@ include mwlib/xmltreecleaner.py
 include setup.cfg
 include setup.py
 include tests/test_xhtmlwriter.py
+include tox.ini
